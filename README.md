@@ -8,5 +8,5 @@
 # 📫 How to reach me
 <a href="https://www.linkedin.com/in/brianmonirath/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-# Github Stats
+# 💾 Github Stats
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=brianthoeurn)
