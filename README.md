@@ -1,5 +1,6 @@
 # Hello there, i'm Brian
 
+- 🌍 I'm based in Carson, California
 - 👨🏽‍🎓 Graduate from General Assembly
 - 💻 I am a Software Engineer
 - 🎒 Always looking for something new to learn
